@@ -1,5 +1,5 @@
 # HR Analysis Dashboard
-
+![HR_Dashboard](https://github.com/user-attachments/assets/5073d51e-8fcd-45ed-8ee2-1943b4283015)
 This project showcases an HR analytics dashboard created in Tableau. The dashboard provides insights into the company's workforce, covering aspects like job distribution, gender split, age demographics, employee earnings, and growth over time. 
 
 ## Project Overview
